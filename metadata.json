@@ -1,0 +1,8 @@
+
+{
+  "name": "LoyaltyHub - Modern Rewards Platform",
+  "description": "A scalable loyalty rewards platform for local businesses featuring digital wallets, QR code integration, and comprehensive dashboards for customers, vendors, and admins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
